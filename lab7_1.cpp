@@ -8,7 +8,7 @@ string func1(string x){
 	string y = "";
 	while(i < L){
 		y += x[L-i-1];
-		i++;
+		i++; 
 	}
 	return y;
 }
