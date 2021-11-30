@@ -16,7 +16,7 @@ int main(){
     for(i=0;i<10;i++){
     	for(j=0;j<9;j++){
     		if(id[j]>id[j+1]){
-    			x=id[j];
+    			x=id[j]; 
     			id[j]=id[j+1];
     			id[j+1]=x; 
     			
