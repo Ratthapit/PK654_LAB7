@@ -28,7 +28,7 @@ int main(){
 		return 0;
 	}
 	else{
-		cout << "Invalid input!!!";
+		cout << "Invalid input!!!"; 
 	}
 	
 	return 0;
